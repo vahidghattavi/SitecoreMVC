@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KnownItemCache>
+  <KnownItems Configuration="Debug">
+    <Id>0de95ae4-41ab-4d01-9eb0-67441b7c2450</Id>
+    <Id>b701850a-cb8a-4943-b2bc-dddb1238c103</Id>
+    <Id>eb2e4ffd-2761-4653-b052-26a64d385227</Id>
+    <Id>3d6658d8-a0bf-4e75-b3e2-d050fabcf4e1</Id>
+    <Id>13d6d6c6-c50b-4bbd-b331-2b04f1a58f21</Id>
+    <Id>3c1715fe-6a13-4fcf-845f-de308ba9741d</Id>
+    <Id>bad98e0e-c1b5-4598-ac13-21b06218b30c</Id>
+    <Id>2e5892c5-a529-4646-989b-1f15de10453e</Id>
+    <Id>2e83fec6-4e19-41f7-b375-81c67ac7a03a</Id>
+    <Id>d2833213-cb77-431a-9108-55e62e4e47fd</Id>
+    <Id>73baeceb-744d-4d4a-a7a5-7a935638643f</Id>
+    <Id>4bf98ef5-1d09-4dd1-9afe-795f9829fd44</Id>
+    <Id>b29ee504-861c-492f-95a3-0d890b6fca09</Id>
+    <Id>76036f5e-cbce-46d1-af0a-4143f9b557aa</Id>
+    <Id>ae76a034-9491-4b83-99f5-39f227d6fb59</Id>
+    <Id>75577384-3c97-45da-a847-81b00500e250</Id>
+    <Id>a60acd61-a6db-4182-8329-c957982cec74</Id>
+    <Id>9dfbb778-512f-4ba7-8293-c01503572d30</Id>
+    <Id>110d559f-dea5-42ea-9c1c-8a5df7e70ef9</Id>
+  </KnownItems>
+  <KnownItems Configuration="Release" />
+</KnownItemCache>

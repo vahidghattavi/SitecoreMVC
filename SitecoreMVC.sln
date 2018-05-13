@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreMVC", "SitecoreMVC\SitecoreMVC.csproj", "{0D9032D6-6DB4-47FF-BBBF-DA1B3E0A3B5F}"
+EndProject
+Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "TDSProject", "TDSProject\TDSProject.scproj", "{A297F5A2-150D-4F39-922A-3D723A2ECA37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D9032D6-6DB4-47FF-BBBF-DA1B3E0A3B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D9032D6-6DB4-47FF-BBBF-DA1B3E0A3B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D9032D6-6DB4-47FF-BBBF-DA1B3E0A3B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D9032D6-6DB4-47FF-BBBF-DA1B3E0A3B5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A297F5A2-150D-4F39-922A-3D723A2ECA37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A297F5A2-150D-4F39-922A-3D723A2ECA37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A297F5A2-150D-4F39-922A-3D723A2ECA37}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A297F5A2-150D-4F39-922A-3D723A2ECA37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A297F5A2-150D-4F39-922A-3D723A2ECA37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A297F5A2-150D-4F39-922A-3D723A2ECA37}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EB220B5-8F8D-4195-B2B9-9ADC78FC9EB9}
+	EndGlobalSection
+EndGlobal

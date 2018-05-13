@@ -1,0 +1,23 @@
+﻿@using SitecoreMVC.Models
+@using Sitecore.Mvc
+@using Glass.Mapper.Sc.Web.Mvc
+
+@model IGlassBase
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>TestView</title>
+</head>
+<body>
+    <div>
+
+        @Html.Sitecore().Field("")
+
+        @Html.Glass().Editable(x => x.Name)
+
+    </div>
+</body>
+</html>
