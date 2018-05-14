@@ -11,7 +11,7 @@ namespace SitecoreMVC.Test
         {
             var a = 2;
             var b = 3;
-            Assert.AreEqual(a + b, 5);
+            Assert.AreEqual(a + b, 6);
         }
     }
 }
