@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreMVC", "SitecoreMVC\
 EndProject
 Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "TDSProject", "TDSProject\TDSProject.scproj", "{A297F5A2-150D-4F39-922A-3D723A2ECA37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreMVC.Test", "SitecoreMVC.Test\SitecoreMVC.Test.csproj", "{280B439F-7F4F-42B3-A0D1-758C1A46A298}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{A297F5A2-150D-4F39-922A-3D723A2ECA37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A297F5A2-150D-4F39-922A-3D723A2ECA37}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A297F5A2-150D-4F39-922A-3D723A2ECA37}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{280B439F-7F4F-42B3-A0D1-758C1A46A298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280B439F-7F4F-42B3-A0D1-758C1A46A298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280B439F-7F4F-42B3-A0D1-758C1A46A298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280B439F-7F4F-42B3-A0D1-758C1A46A298}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
